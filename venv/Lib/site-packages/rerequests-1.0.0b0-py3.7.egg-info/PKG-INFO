@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: rerequests
+Version: 1.0.0b0
+Summary: Wrapper around requests library with automatic retry ability
+Home-page: https://github.com/COEXCZ/rerequests
+Author: Jan Češpivo (COEX)
+Author-email: support@coex.cz
+License: Apache License 2.0
+Description: UNKNOWN
+Platform: UNKNOWN
